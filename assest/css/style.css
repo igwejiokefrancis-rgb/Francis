@@ -1,0 +1,51 @@
+body {
+            font-family: black;
+            background-color: goldenrod;
+            margin: 0%;
+        }
+        header {
+            background-color: black;
+            text-align: center;
+            padding: 20px
+        }
+        nav {
+            background-color:black;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color:whitesmoke;
+            text-decoration: none;
+            margin: 10px
+        }
+        section {
+            background-color: goldenrod;
+            width: 80%;
+            margin: 20px auto;
+            text-align: center;
+            padding: 3px;
+        }
+        p{
+            text-align: center;
+            color: whitesmoke;
+
+
+        }
+        h1{
+            color:whitesmoke;
+            font-size: larger;
+        }
+        img {
+            width: 400px;
+            border-radius:10px ;
+        }
+        footer {
+            background-color: wheat;
+            color: antiquewhite;
+            text-align: center;
+            padding: 10px;
+        }
+        h3{
+            color:white;
+            text-size-adjust: initial;
+        }
